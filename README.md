@@ -11,3 +11,9 @@ This repository contains text archives and prototypes for the **LAM** project—
 - **Code prototypes** – e.g. `lamconsciousnesscore.py.txt`, containing early Python code sketches.
 
 All files currently live at the repository root. When dedicated directories are added, place memory archives under `memory/`, vectors under `vectors/`, incidents under `incidents/`, tasks under `tasks/`, and code prototypes under `src/`.
+
+## Testing
+
+- `scripts/test_entrypoint.sh --all`
+- `scripts/test_entrypoint.sh --governance`
+- `scripts/test_entrypoint.sh --taxonomy`
